@@ -29,3 +29,6 @@ The Decoder is a have a Bidirectional LSTM layer which does language modelling u
 
 
 ![Model Architecture](https://github.com/Anand2805/Automatic-Impression-Generation-From-Medical-Imaging-Report/blob/master/CS.png)
+
+
+__Note: In case Notebook not visible in github please copy past url in [nbviewer](https://github.com/jupyter/nbviewer). seems to be issue with github, viewing jupyter notebook__
